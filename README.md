@@ -26,7 +26,7 @@ Files Included:
 
 SmartSales.ipynb – Main analysis notebook
 
-sales_data.csv – Sample dataset used for analysis
+sales Data.csv – Sample dataset used for analysis
 
 Outcome:
 The project delivers actionable insights for business stakeholders by highlighting key factors impacting sales performance and identifying areas for improvement.
